@@ -20,3 +20,10 @@ ORCID : [0000-0002-7275-3533](https://orcid.org/0000-0002-7275-3533)
 [Leiden University Medical Center](https://www.lumc.nl/?setlanguage=English&setcountry=en)  
 GitHub: [rajaram5](https://github.com/rajaram5)
 ORCID: [0000-0002-1215-167X](https://orcid.org/0000-0002-1215-167X)
+
+**Núria Queralt Rosinach**
+*Human Genetics, Biosemantics*
+[Leiden University Medical Center](https://www.lumc.nl/?setlanguage=English&setcountry=en)
+GitHub: [NuriaQueralt](https://github.com/NuriaQueralt)
+ORCID: [0000-0003-0169-8159](https://orcid.org/0000-0003-0169-8159)
+
