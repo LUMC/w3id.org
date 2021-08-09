@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^neo4jgraph/browser/(.*) http://lumc-beat-covid.fair-dtls.surf-hosted.nl:7474/browser/$1 [R=307,L]
